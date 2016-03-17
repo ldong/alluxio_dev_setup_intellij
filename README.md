@@ -12,6 +12,8 @@ Date: Wed, Mar 16 2016
 ![](./screenshots/5.png)
 ![](./screenshots/6.png)
 ![](./screenshots/7.png)
+![](./screenshots/8.png)
+![](./screenshots/9.png)
 
 ## Pick up ticket
 
